@@ -9,3 +9,4 @@
 6. Using scroll view, horizontal view, vertical view containers
 7. Using Disclosure View.
 8. Displaying views dynamically in a List View.
+9. Creating data model and fetching data

@@ -1,6 +1,5 @@
 # Fructus
 
-OBJECTIVES
 
 1. A unique Onboarding screen.
 2. Using AppStorage.
